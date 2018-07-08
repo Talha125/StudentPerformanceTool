@@ -1,0 +1,558 @@
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.config
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.manifest
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.application
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.xml
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\MetroSuite.dll
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.mbox.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Admin.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Assistant.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Resources.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Teacher.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Welcome.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.TrustInfo.xml
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe.manifest
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.application
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.xml
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_assistant_marks.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_teacher.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Create_Database.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_add.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\MetroFramework.dll
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.create_database_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.tablecolumns.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin_database.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.change_pass.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_change_pass.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_password.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_admin.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_records_admin.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table_head.resources
+C:\Users\HP\documents\visual studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.about_us.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.config
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.xml
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.pdb
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.manifest
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.application
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.pdb
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.xml
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbprojResolveAssemblyReference.cache
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.about_us.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.mbox.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.change_pass.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_records_admin.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_password.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_admin.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_change_pass.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin_database.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_assistant_marks.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Admin.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Resources.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.tablecolumns.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.create_database_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database_head.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Create_Database.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_add.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Assistant.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Teacher.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Welcome.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbproj.GenerateResource.Cache
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.TrustInfo.xml
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe.manifest
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.application
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attendance.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_activity.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_distance.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_monthly.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sources.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sports.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sub.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_total.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_activity.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_distance.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_monthly.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sources.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sports.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sub.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_total_attend.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.basic_info.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.database_page.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.enrollment_no.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_basic_info.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_database.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Head_enroll.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_summary.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_activity.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_distance.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_sports.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_stand.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_sub_marks.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_activity.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_distance.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_sports.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.stand.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.sub_marks.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_achieve.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_part.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strengths.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_achieve.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_part.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.summary.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_suggestions.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.suggestions.resources
+D:\SPMS\Pawan\StudentBenchmarking 2\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.weakness.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.about_us.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.mbox.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.change_pass.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_password.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_change_pass.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_assistant_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.tablecolumns.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.create_database_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Create_Database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_add.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Assistant.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attendance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_monthly.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sub.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_total.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_monthly.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sub.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_total_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.basic_info.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.database_page.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.enrollment_no.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_basic_info.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Head_enroll.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_summary.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_stand.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_sub_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.stand.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.sub_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_achieve.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_part.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_achieve.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_part.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.summary.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_suggestions.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.suggestions.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.weakness.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Teacher.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Welcome.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.TrustInfo.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.about_us.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.mbox.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.change_pass.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_password.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_change_pass.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.tablecolumns.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.create_database_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Create_Database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_add.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Assistant.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attendance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_monthly.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sub.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_total.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_monthly.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sub.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_total_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.basic_info.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.database_page.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.enrollment_no.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_basic_info.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Head_enroll.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_summary.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_stand.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_sub_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.stand.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.sub_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_achieve.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_part.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_achieve.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_part.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.summary.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_suggestions.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.suggestions.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.weakness.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Teacher.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Welcome.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.TrustInfo.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.set_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_feedback.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_feedback.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_student_records.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.student_records.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_photo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_student_data.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_photo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_student_data.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.config
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.xml
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.pdb
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.manifest
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.application
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.pdb
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.xml
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbprojResolveAssemblyReference.cache
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.about_us.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.mbox.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.set_database.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.change_pass.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_records_admin.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_password.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_admin.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_change_pass.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin_database.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Admin.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Resources.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.tablecolumns.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.create_database_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database_head.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Create_Database.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_add.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Assistant.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_attend.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_attend.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_database.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_photo.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_student_data.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_database.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_photo.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_student_data.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_feedback.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_feedback.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_student_records.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_marks.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_marks.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_strengths.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_strengths.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.student_records.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attendance.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_activity.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_distance.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_monthly.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sources.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sports.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sub.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_total.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_activity.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_distance.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_monthly.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sources.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sports.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sub.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_total_attend.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.basic_info.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.database_page.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.enrollment_no.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_basic_info.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Head_enroll.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_summary.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_activity.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_distance.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_sports.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_stand.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_sub_marks.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_activity.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_distance.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_sports.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.stand.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.sub_marks.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_achieve.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_part.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strengths.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_achieve.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_part.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.summary.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_suggestions.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.suggestions.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.weakness.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Teacher.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Welcome.resources
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbproj.GenerateResource.Cache
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.TrustInfo.xml
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe.manifest
+E:\Piyush\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\bin\Debug\StudentBenchmarking.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.about_us.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.mbox.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.set_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.change_pass.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_user_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_fkey.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_foreign_key.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_password.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_username_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.modify_records_admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_change_pass.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_records_admin_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Admin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_users_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.add_table_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.tablecolumns.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_table.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.create_database_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database_head.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.delete_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Create_Database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.heading_add.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Assistant.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_photo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_student_data.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_database.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_photo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_student_data.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_student_records.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_insert_strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.insert_strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.student_records.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attendance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_monthly.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_sub.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.attend_total.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_monthly.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_attend_sub.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_total_attend.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.basic_info.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.database_page.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.enrollment_no.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_basic_info.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Head_enroll.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_summary.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_marks_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_stand.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_sub_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_activity.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_distance.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.marks_sports.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.stand.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.sub_marks.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_achieve.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.head_strength_part.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strengths.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_achieve.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.strength_part.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.summary.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Teacher.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.Welcome.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\SPMS.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.TrustInfo.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\StudentBenchmarking 19-4-17\StudentBenchmarking 17-4-17\StudentBenchmarking\StudentBenchmarking\obj\Debug\StudentBenchmarking.First_Page.resources

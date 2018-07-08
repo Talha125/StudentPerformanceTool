@@ -1,0 +1,992 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1B34D260-E359-458C-B4D6-64E5F61C12D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>StudentBenchmarking.My.MyApplication</StartupObject>
+    <RootNamespace>StudentBenchmarking</RootNamespace>
+    <AssemblyName>StudentBenchmarking</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\HP\Desktop\New folder\newwwwwwww\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>StudentBenchmarking.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>StudentBenchmarking.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Untitled.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>80A07B88CE62844FFABC9843038FB294F1BC499F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>StudentBenchmarking_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>E:\Library\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>E:\Library\MODERN\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroSuite">
+      <HintPath>E:\Library\MetroSuite.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="First_Page.Designer.vb">
+      <DependentUpon>First_Page.vb</DependentUpon>
+    </Compile>
+    <Compile Include="First_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Tools\about_us.Designer.vb">
+      <DependentUpon>about_us.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Other Tools\about_us.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Tools\mbox.Designer.vb">
+      <DependentUpon>mbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Other Tools\mbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="set_database.Designer.vb">
+      <DependentUpon>set_database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="set_database.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\change_pass.Designer.vb">
+      <DependentUpon>change_pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\change_pass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_table_head.Designer.vb">
+      <DependentUpon>delete_table_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_table_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_fkey_head.Designer.vb">
+      <DependentUpon>delete_fkey_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_fkey_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_user.Designer.vb">
+      <DependentUpon>delete_user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_user.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_user_head.Designer.vb">
+      <DependentUpon>delete_user_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_user_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_fkey.Designer.vb">
+      <DependentUpon>delete_fkey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_fkey.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\delete_records_admin.Designer.vb">
+      <DependentUpon>delete_records_admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\delete_records_admin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_table.Designer.vb">
+      <DependentUpon>modify_table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_table.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_table_head.Designer.vb">
+      <DependentUpon>modify_table_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_table_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_foreign_key_head.Designer.vb">
+      <DependentUpon>modify_foreign_key_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_foreign_key_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_foreign_key.Designer.vb">
+      <DependentUpon>modify_foreign_key.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_foreign_key.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_password.Designer.vb">
+      <DependentUpon>modify_password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_password.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_username.Designer.vb">
+      <DependentUpon>modify_username.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_username.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_username_head.Designer.vb">
+      <DependentUpon>modify_username_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Modify Controls\modify_username_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\modify_records_admin.Designer.vb">
+      <DependentUpon>modify_records_admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\modify_records_admin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\heading_change_pass.Designer.vb">
+      <DependentUpon>heading_change_pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\heading_change_pass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\add_records_admin_database.Designer.vb">
+      <DependentUpon>add_records_admin_database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\add_records_admin_database.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_table.Designer.vb">
+      <DependentUpon>add_table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_table.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_users.Designer.vb">
+      <DependentUpon>add_users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_users.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_users_head.Designer.vb">
+      <DependentUpon>add_users_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_users_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_table_head.Designer.vb">
+      <DependentUpon>add_table_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\add_table_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\table_columns.Designer.vb">
+      <DependentUpon>table_columns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\table_columns.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_table.Designer.vb">
+      <DependentUpon>delete_table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Delete Controls\delete_table.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\create_database_head.Designer.vb">
+      <DependentUpon>create_database_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\create_database_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\delete_database_head.Designer.vb">
+      <DependentUpon>delete_database_head.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\delete_database_head.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\delete_database.Designer.vb">
+      <DependentUpon>delete_database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\delete_database.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\create_database.Designer.vb">
+      <DependentUpon>create_database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\Databse Controls\create_database.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\heading_add.Designer.vb">
+      <DependentUpon>heading_add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Admin\Controls\heading_add.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Assistant.Designer.vb">
+      <DependentUpon>Assistant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Assistant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Attendance\head_insert_attend.Designer.vb">
+      <DependentUpon>head_insert_attend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Attendance\head_insert_attend.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Attendance\insert_attend.Designer.vb">
+      <DependentUpon>insert_attend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Attendance\insert_attend.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\head_insert_database.Designer.vb">
+      <DependentUpon>head_insert_database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\head_insert_database.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\head_insert_photo.Designer.vb">
+      <DependentUpon>head_insert_photo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\head_insert_photo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\head_insert_student_data.Designer.vb">
+      <DependentUpon>head_insert_student_data.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\head_insert_student_data.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\insert_database.Designer.vb">
+      <DependentUpon>insert_database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\insert_database.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\insert_photo.Designer.vb">
+      <DependentUpon>insert_photo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\insert_photo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\insert_student_data.Designer.vb">
+      <DependentUpon>insert_student_data.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Database\insert_student_data.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\head_student_records.Designer.vb">
+      <DependentUpon>head_student_records.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\head_student_records.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Marks\head_insert_marks.Designer.vb">
+      <DependentUpon>head_insert_marks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Marks\head_insert_marks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Marks\insert_marks.Designer.vb">
+      <DependentUpon>insert_marks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Marks\insert_marks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Strength\head_insert_strengths.Designer.vb">
+      <DependentUpon>head_insert_strengths.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Strength\head_insert_strengths.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Strength\insert_strengths.Designer.vb">
+      <DependentUpon>insert_strengths.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\Strength\insert_strengths.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\student_records.Designer.vb">
+      <DependentUpon>student_records.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Assistant\Controls\student_records.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attendance.Designer.vb">
+      <DependentUpon>attendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attendance.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_activity.Designer.vb">
+      <DependentUpon>attend_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_activity.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_distance.Designer.vb">
+      <DependentUpon>attend_distance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_distance.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_monthly.Designer.vb">
+      <DependentUpon>attend_monthly.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_monthly.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_sources.Designer.vb">
+      <DependentUpon>attend_sources.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_sources.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_sports.Designer.vb">
+      <DependentUpon>attend_sports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_sports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_sub.Designer.vb">
+      <DependentUpon>attend_sub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_sub.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_total.Designer.vb">
+      <DependentUpon>attend_total.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\attend_total.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_activity.Designer.vb">
+      <DependentUpon>head_attend_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_activity.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_distance.Designer.vb">
+      <DependentUpon>head_attend_distance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_distance.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_monthly.Designer.vb">
+      <DependentUpon>head_attend_monthly.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_monthly.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_sources.Designer.vb">
+      <DependentUpon>head_attend_sources.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_sources.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_sports.Designer.vb">
+      <DependentUpon>head_attend_sports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_sports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_sub.Designer.vb">
+      <DependentUpon>head_attend_sub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_attend_sub.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_total_attend.Designer.vb">
+      <DependentUpon>head_total_attend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Attendance\head_total_attend.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\basic_info.Designer.vb">
+      <DependentUpon>basic_info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\basic_info.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Database\database_page.Designer.vb">
+      <DependentUpon>database_page.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Database\database_page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\enrollment_no.Designer.vb">
+      <DependentUpon>enrollment_no.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\enrollment_no.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\head_basic_info.Designer.vb">
+      <DependentUpon>head_basic_info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\head_basic_info.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Head_enroll.Designer.vb">
+      <DependentUpon>Head_enroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Head_enroll.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\head_summary.Designer.vb">
+      <DependentUpon>head_summary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\head_summary.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_marks_activity.Designer.vb">
+      <DependentUpon>head_marks_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_marks_activity.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_marks_distance.Designer.vb">
+      <DependentUpon>head_marks_distance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_marks_distance.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_marks_sports.Designer.vb">
+      <DependentUpon>head_marks_sports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_marks_sports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_stand.Designer.vb">
+      <DependentUpon>head_stand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_stand.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_sub_marks.Designer.vb">
+      <DependentUpon>head_sub_marks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\head_sub_marks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks.Designer.vb">
+      <DependentUpon>marks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks_activity.Designer.vb">
+      <DependentUpon>marks_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks_activity.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks_distance.Designer.vb">
+      <DependentUpon>marks_distance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks_distance.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks_sports.Designer.vb">
+      <DependentUpon>marks_sports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\marks_sports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\stand.Designer.vb">
+      <DependentUpon>stand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\stand.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\sub_marks.Designer.vb">
+      <DependentUpon>sub_marks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Marks\sub_marks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\head_strength_achieve.Designer.vb">
+      <DependentUpon>head_strength_achieve.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\head_strength_achieve.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\head_strength_part.Designer.vb">
+      <DependentUpon>head_strength_part.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\head_strength_part.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\strengths.Designer.vb">
+      <DependentUpon>strengths.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\strengths.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\strength_achieve.Designer.vb">
+      <DependentUpon>strength_achieve.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\strength_achieve.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\strength_part.Designer.vb">
+      <DependentUpon>strength_part.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\Strength\strength_part.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\summary.Designer.vb">
+      <DependentUpon>summary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Controls\summary.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Teacher\Teacher.Designer.vb">
+      <DependentUpon>Teacher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Teacher\Teacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.designer.vb">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="First_Page.resx">
+      <DependentUpon>First_Page.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Tools\about_us.resx">
+      <DependentUpon>about_us.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Tools\mbox.resx">
+      <DependentUpon>mbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="set_database.resx">
+      <DependentUpon>set_database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\change_pass.resx">
+      <DependentUpon>change_pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Delete Controls\delete_table_head.resx">
+      <DependentUpon>delete_table_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Delete Controls\delete_fkey_head.resx">
+      <DependentUpon>delete_fkey_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Delete Controls\delete_user.resx">
+      <DependentUpon>delete_user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Delete Controls\delete_user_head.resx">
+      <DependentUpon>delete_user_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Delete Controls\delete_fkey.resx">
+      <DependentUpon>delete_fkey.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\delete_records_admin.resx">
+      <DependentUpon>delete_records_admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_table.resx">
+      <DependentUpon>modify_table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_table_head.resx">
+      <DependentUpon>modify_table_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_foreign_key_head.resx">
+      <DependentUpon>modify_foreign_key_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_foreign_key.resx">
+      <DependentUpon>modify_foreign_key.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_password.resx">
+      <DependentUpon>modify_password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_username.resx">
+      <DependentUpon>modify_username.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Modify Controls\modify_username_head.resx">
+      <DependentUpon>modify_username_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\modify_records_admin.resx">
+      <DependentUpon>modify_records_admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\heading_change_pass.resx">
+      <DependentUpon>heading_change_pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\add_records_admin_database.resx">
+      <DependentUpon>add_records_admin_database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\add_table.resx">
+      <DependentUpon>add_table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\add_users.resx">
+      <DependentUpon>add_users.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\add_users_head.resx">
+      <DependentUpon>add_users_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\add_table_head.resx">
+      <DependentUpon>add_table_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\table_columns.resx">
+      <DependentUpon>table_columns.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Delete Controls\delete_table.resx">
+      <DependentUpon>delete_table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\create_database_head.resx">
+      <DependentUpon>create_database_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\delete_database_head.resx">
+      <DependentUpon>delete_database_head.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\delete_database.resx">
+      <DependentUpon>delete_database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\Databse Controls\create_database.resx">
+      <DependentUpon>create_database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Admin\Controls\heading_add.resx">
+      <DependentUpon>heading_add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Assistant.resx">
+      <DependentUpon>Assistant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Attendance\head_insert_attend.resx">
+      <DependentUpon>head_insert_attend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Attendance\insert_attend.resx">
+      <DependentUpon>insert_attend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\head_insert_database.resx">
+      <DependentUpon>head_insert_database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Database\head_insert_photo.resx">
+      <DependentUpon>head_insert_photo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Database\head_insert_student_data.resx">
+      <DependentUpon>head_insert_student_data.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\insert_database.resx">
+      <DependentUpon>insert_database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Database\insert_photo.resx">
+      <DependentUpon>insert_photo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Database\insert_student_data.resx">
+      <DependentUpon>insert_student_data.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\head_student_records.resx">
+      <DependentUpon>head_student_records.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Marks\head_insert_marks.resx">
+      <DependentUpon>head_insert_marks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Marks\insert_marks.resx">
+      <DependentUpon>insert_marks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Strength\head_insert_strengths.resx">
+      <DependentUpon>head_insert_strengths.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\Strength\insert_strengths.resx">
+      <DependentUpon>insert_strengths.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Assistant\Controls\student_records.resx">
+      <DependentUpon>student_records.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attendance.resx">
+      <DependentUpon>attendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_activity.resx">
+      <DependentUpon>attend_activity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_distance.resx">
+      <DependentUpon>attend_distance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_monthly.resx">
+      <DependentUpon>attend_monthly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_sources.resx">
+      <DependentUpon>attend_sources.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_sports.resx">
+      <DependentUpon>attend_sports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_sub.resx">
+      <DependentUpon>attend_sub.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\attend_total.resx">
+      <DependentUpon>attend_total.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_attend_activity.resx">
+      <DependentUpon>head_attend_activity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_attend_distance.resx">
+      <DependentUpon>head_attend_distance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_attend_monthly.resx">
+      <DependentUpon>head_attend_monthly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_attend_sources.resx">
+      <DependentUpon>head_attend_sources.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_attend_sports.resx">
+      <DependentUpon>head_attend_sports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_attend_sub.resx">
+      <DependentUpon>head_attend_sub.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Attendance\head_total_attend.resx">
+      <DependentUpon>head_total_attend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\basic_info.resx">
+      <DependentUpon>basic_info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Database\database_page.resx">
+      <DependentUpon>database_page.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\enrollment_no.resx">
+      <DependentUpon>enrollment_no.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\head_basic_info.resx">
+      <DependentUpon>head_basic_info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Head_enroll.resx">
+      <DependentUpon>Head_enroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\head_summary.resx">
+      <DependentUpon>head_summary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\head_marks_activity.resx">
+      <DependentUpon>head_marks_activity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\head_marks_distance.resx">
+      <DependentUpon>head_marks_distance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\head_marks_sports.resx">
+      <DependentUpon>head_marks_sports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\head_stand.resx">
+      <DependentUpon>head_stand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\head_sub_marks.resx">
+      <DependentUpon>head_sub_marks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\marks.resx">
+      <DependentUpon>marks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\marks_activity.resx">
+      <DependentUpon>marks_activity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\marks_distance.resx">
+      <DependentUpon>marks_distance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\marks_sports.resx">
+      <DependentUpon>marks_sports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\stand.resx">
+      <DependentUpon>stand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Marks\sub_marks.resx">
+      <DependentUpon>sub_marks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Strength\head_strength_achieve.resx">
+      <DependentUpon>head_strength_achieve.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Strength\head_strength_part.resx">
+      <DependentUpon>head_strength_part.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Strength\strengths.resx">
+      <DependentUpon>strengths.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Strength\strength_achieve.resx">
+      <DependentUpon>strength_achieve.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\Strength\strength_part.resx">
+      <DependentUpon>strength_part.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Controls\summary.resx">
+      <DependentUpon>summary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Teacher\Teacher.resx">
+      <DependentUpon>Teacher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="StudentBenchmarking_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Graduation Cap.ico" />
+    <None Include="Resources\Checkmark_52px.png" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\access logo.jpg" />
+    <Content Include="Untitled.ico" />
+    <None Include="Resources\sql server logo.png" />
+    <None Include="Resources\ms access logo.png" />
+    <Content Include="spms_logo.ico" />
+    <None Include="Resources\Forward_104px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
